@@ -1,0 +1,16 @@
+[
+    {
+        "mincount": {
+            "amount": 5,
+            "perplayer": true
+        },
+        "result": "deny"
+    },
+    {
+        "dimension": "minecraft:overworld",
+        "spawntype": "natural",
+        "hostile": true,
+        "seesky": true,
+        "result": "deny"
+    }
+]
